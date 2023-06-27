@@ -1,0 +1,23 @@
+.navbar {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  height: 30px;
+  padding: 20px 0;
+  display: flex;
+  background-image: linear-gradient(rgb(36, 35, 35),rgba(0, 0, 0, 0.025));
+  justify-content: space-between;
+  color: aliceblue;
+}
+
+.logo {
+  position: fixed;
+  left: 20px;
+  width: 80px;
+}
+
+.avatar {
+  position: fixed;
+  right: 20px;
+  width: 40px;
+}
